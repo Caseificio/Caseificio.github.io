@@ -1,5 +1,6 @@
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/caff.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -26,10 +27,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 326px;
   }
@@ -80,11 +77,11 @@
   height: 46px;
 }
 
-.u-section-2 .u-table-cell-51 {
+.u-section-2 .u-table-cell-53 {
   font-weight: 700;
 }
 
-.u-section-2 .u-table-cell-52 {
+.u-section-2 .u-table-cell-54 {
   font-weight: 700;
 }
 
@@ -112,6 +109,7 @@
   }
 }.u-section-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/spremuta.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -138,10 +136,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 {
-    background-position: 50% 50%;
-  }
-
   .u-section-3 .u-group-1 {
     width: 249px;
     min-height: 151px;
@@ -195,6 +189,7 @@
   }
 }.u-section-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/yoghurtfuttidibosco.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -209,7 +204,7 @@
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 30px 30px 17px;
 }
 
 .u-section-5 .u-text-1 {
@@ -217,14 +212,10 @@
   text-transform: uppercase;
   animation-duration: 1000ms;
   font-size: 1.875rem;
-  margin: 0;
+  margin: 0 0 0 13px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-5 {
-    background-position: 50% 50%;
-  }
-
   .u-section-5 .u-sheet-1 {
     min-height: 326px;
   }
@@ -286,6 +277,7 @@
   }
 }.u-section-7 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/pastequalitpremium.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-7 .u-sheet-1 {
@@ -312,10 +304,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-7 {
-    background-position: 50% 50%;
-  }
-
   .u-section-7 .u-sheet-1 {
     min-height: 326px;
   }
@@ -362,11 +350,11 @@
   height: 46px;
 }
 
-.u-section-8 .u-table-cell-23 {
+.u-section-8 .u-table-cell-21 {
   font-weight: 700;
 }
 
-.u-section-8 .u-table-cell-24 {
+.u-section-8 .u-table-cell-22 {
   font-weight: 700;
 }
 
@@ -381,6 +369,7 @@
   }
 }.u-section-9 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/bibite.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-9 .u-sheet-1 {
@@ -407,10 +396,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-9 {
-    background-position: 50% 50%;
-  }
-
   .u-section-9 .u-sheet-1 {
     min-height: 326px;
   }
@@ -468,6 +453,7 @@
   }
 }.u-section-11 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/negroni.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-11 .u-sheet-1 {
@@ -494,10 +480,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-11 {
-    background-position: 50% 50%;
-  }
-
   .u-section-11 .u-sheet-1 {
     min-height: 326px;
   }
@@ -555,6 +537,7 @@
   }
 }.u-section-13 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/antonius.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-13 .u-sheet-1 {
@@ -581,10 +564,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-13 {
-    background-position: 50% 50%;
-  }
-
   .u-section-13 .u-sheet-1 {
     min-height: 326px;
   }
@@ -642,6 +621,7 @@
   }
 }.u-section-15 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/rossi.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-15 .u-sheet-1 {
@@ -668,10 +648,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-15 {
-    background-position: 50% 50%;
-  }
-
   .u-section-15 .u-sheet-1 {
     min-height: 326px;
   }
@@ -733,6 +709,7 @@
   }
 }.u-section-17 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/trentodoc.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-17 .u-sheet-1 {
@@ -759,10 +736,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-17 {
-    background-position: 50% 50%;
-  }
-
   .u-section-17 .u-sheet-1 {
     min-height: 326px;
   }
@@ -824,6 +797,7 @@
   }
 }.u-section-19 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-19 .u-sheet-1 {
@@ -850,10 +824,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-19 {
-    background-position: 50% 50%;
-  }
-
   .u-section-19 .u-sheet-1 {
     min-height: 326px;
   }
@@ -911,6 +881,7 @@
   }
 }.u-section-21 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-21 .u-sheet-1 {
@@ -937,10 +908,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-21 {
-    background-position: 50% 50%;
-  }
-
   .u-section-21 .u-sheet-1 {
     min-height: 326px;
   }
@@ -998,6 +965,7 @@
   }
 }.u-section-23 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-23 .u-sheet-1 {
@@ -1024,10 +992,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-23 {
-    background-position: 50% 50%;
-  }
-
   .u-section-23 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1085,6 +1049,7 @@
   }
 }.u-section-25 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-25 .u-sheet-1 {
@@ -1111,10 +1076,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-25 {
-    background-position: 50% 50%;
-  }
-
   .u-section-25 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1172,6 +1133,7 @@
   }
 }.u-section-27 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-27 .u-sheet-1 {
@@ -1198,10 +1160,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-27 {
-    background-position: 50% 50%;
-  }
-
   .u-section-27 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1259,6 +1217,7 @@
   }
 }.u-section-29 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-29 .u-sheet-1 {
@@ -1285,10 +1244,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-29 {
-    background-position: 50% 50%;
-  }
-
   .u-section-29 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1346,6 +1301,7 @@
   }
 }.u-section-31 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-31 .u-sheet-1 {
@@ -1372,10 +1328,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-31 {
-    background-position: 50% 50%;
-  }
-
   .u-section-31 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1433,6 +1385,7 @@
   }
 }.u-section-33 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-33 .u-sheet-1 {
@@ -1459,10 +1412,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-33 {
-    background-position: 50% 50%;
-  }
-
   .u-section-33 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1520,6 +1469,7 @@
   }
 }.u-section-35 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/amaridistillatieliquori.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-35 .u-sheet-1 {
@@ -1546,10 +1496,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-35 {
-    background-position: 50% 50%;
-  }
-
   .u-section-35 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1607,6 +1553,7 @@
   }
 }.u-section-37 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/insalatamelespeck.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-37 .u-sheet-1 {
@@ -1633,10 +1580,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-37 {
-    background-position: 50% 50%;
-  }
-
   .u-section-37 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1672,11 +1615,11 @@
     padding-bottom: 11px;
   }
 }.u-section-38 .u-sheet-1 {
-  min-height: 180px;
+  min-height: 184px;
 }
 
 .u-section-38 .u-table-1 {
-  margin: 0;
+  margin: 0 0 4px;
 }
 
 .u-block-09ae-10 {
@@ -1694,6 +1637,7 @@
   }
 }.u-section-39 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/stuzzichini.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-39 .u-sheet-1 {
@@ -1720,10 +1664,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-39 {
-    background-position: 50% 50%;
-  }
-
   .u-section-39 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1770,11 +1710,11 @@
   height: 46px;
 }
 
-.u-section-40 .u-table-cell-11 {
+.u-section-40 .u-table-cell-9 {
   font-weight: 700;
 }
 
-.u-section-40 .u-table-cell-12 {
+.u-section-40 .u-table-cell-10 {
   font-weight: 700;
 }
 
@@ -1789,6 +1729,7 @@
   }
 }.u-section-41 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/patateewurstel.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-41 .u-sheet-1 {
@@ -1815,10 +1756,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-41 {
-    background-position: 50% 50%;
-  }
-
   .u-section-41 .u-sheet-1 {
     min-height: 326px;
   }
@@ -1865,11 +1802,11 @@
   height: 46px;
 }
 
-.u-section-42 .u-table-cell-21 {
+.u-section-42 .u-table-cell-19 {
   font-weight: 700;
 }
 
-.u-section-42 .u-table-cell-22 {
+.u-section-42 .u-table-cell-20 {
   font-weight: 700;
 }
 
